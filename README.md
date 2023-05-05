@@ -8,3 +8,5 @@ In this course, you'll build a balance sheet using pseudo selectors. You'll lear
 Output Viewport: 
 
 ![Outputimg-1](https://user-images.githubusercontent.com/96150629/236499908-c7e87132-bd0b-46e9-83fd-016b35362a2d.png)
+
+#Give it a STAR if it helped you :)
